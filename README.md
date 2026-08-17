@@ -74,10 +74,18 @@ I Can't Believe It's Not Haskell!:
   * Prerequisites: Code-as-Proof
 - Category Theory
   * Seminar lead: Tom
+- Categories, Monads and Applicatives
+  * Seminar lead: Piotr
+  * Prerequisites: Category Theory (optional, will cover basics)
 - Automata & Regular Expressions
   * Seminar lead: Charlie
 - Types are Properties
   * Seminar lead: Charlie
+- (Modal) Logic and Kripke Semantics
+  * Seminar lead: Piotr
+- Coalgebra
+  * Seminar lead: Piotr
+  - Prerequisites: Category Theory (optional, but recommended)
 
 Installing packages:
 --------------------
