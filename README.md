@@ -51,6 +51,8 @@ Advanced Haskell:
   * Seminar lead: Sam
 - Linear Haskell
 - Chess in Haskell (optional CW)
+- Fixed-Point Recursion
+  * Seminar lead: Tom/Sam
 
 More Advanced Haskell:
 - Effects
@@ -74,6 +76,9 @@ I Can't Believe It's Not Haskell!:
   * Prerequisites: Code-as-Proof
 - Category Theory
   * Seminar lead: Tom
+- Domain Semantics
+  * Seminar lead: Tom
+     Prerequisites: Fixed-Point Recursion
 - Categories, Monads and Applicatives
   * Seminar lead: Piotr
   * Prerequisites: Category Theory (optional, will cover basics)
